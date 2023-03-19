@@ -1,0 +1,4 @@
+select * from course
+insert into course(id, name, author)
+values(1, 'algebra', 'Nahida')
+delete from course where id=1
